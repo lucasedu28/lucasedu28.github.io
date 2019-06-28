@@ -1,5 +1,4 @@
-<style>
-.link:visited {
+.principal > a:visited {
   color: green;
 }
 
@@ -11,4 +10,3 @@ h1 {
   width: 700px;
   margin: auto;
 }
-</style>
