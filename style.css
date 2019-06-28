@@ -1,12 +1,36 @@
-.menu > a:visited {
-  color: green;
+.largura {
+width: 700px;
+margin: auto;
 }
-
+.menu {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.menu > a{
+  text-decoration:none;
+  color:black;
+  margin-right: 20px;
+}
+.menu > a:visited {
+  color:green;
+}
+.menu > a:hover {
+  color: blue;
+}
 h1 {
+  padding-bottom: 5px;
   border-bottom: 2px dotted black;
 }
-
-.largura {
-  width: 700px;
-  margin: auto;
+.conteudo {
+  line-height: 32px;
+}
+.img-principal {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.selecionado {
+  border-bottom: 2px dotted black;
 }
