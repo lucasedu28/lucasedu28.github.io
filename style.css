@@ -1,3 +1,4 @@
+<style>
 .principal < a:visited {
   color: green;
 }
@@ -5,3 +6,4 @@
 h1 {
   border-bottom: 1px dotted black;
 }
+</style>
