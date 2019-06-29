@@ -11,13 +11,12 @@ margin: auto;
 }
 
 a {
-  text-decoration: none;
   color: black;
   margin-right: 20px;
 }
 
 a:hover {
-  color: blue;
+  color: red;
 }
 
 h1 {
