@@ -40,4 +40,5 @@ h1 {
 .img-1 {
   width: 25%;
   height: "";
+  float: left;
 }
