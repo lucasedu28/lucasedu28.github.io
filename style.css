@@ -25,22 +25,27 @@ h1 {
 }
 
 .selecionado1:visited {
+  border-bottom: 1px dotted black;
   color: blue;
 }
 
 .selecionado2:visited {
+  border-bottom: 1px dotted black;
   color: blue;
 }
 
 .selecionado3:visited {
+  border-bottom: 1px dotted black;
   color: blue;
 }
 
 .selecionado4:visited {
+  border-bottom: 1px dotted black;
   color: blue;
 }
 
 .selecionado5:visited {
+  border-bottom: 1px dotted black;
   color: blue;
 }
 
