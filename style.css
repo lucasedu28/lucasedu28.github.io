@@ -60,4 +60,7 @@ h1 {
 .img-2 {
   width: 25%;
   height: "";
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
