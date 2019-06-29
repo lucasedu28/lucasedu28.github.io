@@ -16,10 +16,6 @@ margin: auto;
   margin-right: 20px;
 }
 
-.menu > a:visited {
-  color:green;
-}
-
 .menu > a:hover {
   color: blue;
 }
@@ -31,22 +27,27 @@ h1 {
 
 .selecionado1:visited {
   border-bottom: 1px dotted black;
+  color: blue;
 }
 
 .selecionado2:visited {
   border-bottom: 1px dotted black;
+  color: blue;
 }
 
 .selecionado3:visited {
   border-bottom: 1px dotted black;
+  color: blue;
 }
 
 .selecionado4:visited {
   border-bottom: 1px dotted black;
+  color: blue;
 }
 
 .selecionado5:visited {
   border-bottom: 1px dotted black;
+  color: blue;
 }
 
 .img-1 {
