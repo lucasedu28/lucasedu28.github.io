@@ -36,3 +36,8 @@ h1 {
 .selecionado {
   border-bottom: 2px dotted black;
 }
+
+.img-1 {
+  width: 25%;
+  height: "";
+}
