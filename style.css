@@ -10,7 +10,7 @@ margin: auto;
   margin-bottom: 30px;
 }
 
-.menu > a {
+a {
   text-decoration: none;
   color: black;
   margin-right: 20px;
