@@ -38,7 +38,9 @@ h1 {
 }
 
 .img-1 {
+  float: left;
   width: 25%;
   height: "";
-  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
