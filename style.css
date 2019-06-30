@@ -73,7 +73,7 @@ h1 {
 }
 
 .img-px {
-  display: block;
+  display: inline-block;
 }
 
 .subtitulo-j {
