@@ -21,6 +21,10 @@ margin: auto;
   font-family: 'Black Ops One', cursive;
 }
 
+a {
+  margin-right: 20px;
+}
+
 a:hover {
   color: red;
 }
