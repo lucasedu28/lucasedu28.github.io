@@ -15,13 +15,15 @@ margin: auto;
 }
 
 .links-1 {
-  color: black;
-  margin-right: 5px;
   font-family: 'Black Ops One', cursive;
 }
 
 a {
   color: black;
+}
+ 
+a:visited {
+  border-bottom: 1px dotted black;
 }
 
 a:hover {
@@ -52,26 +54,6 @@ h1 {
 
 .selecionado5:visited {
   color: blue;
-}
-
-.selecionado1:visited {
-  border-bottom: 1px dotted black;
-}
-
-.selecionado2:visited {
-  border-bottom: 1px dotted black;
-}
-
-.selecionado3:visited {
-  border-bottom: 1px dotted black;
-}
-
-.selecionado4:visited {
-  border-bottom: 1px dotted black;
-}
-
-.selecionado5:visited {
-  border-bottom: 1px dotted black;
 }
 
 .img-1 {
