@@ -3,7 +3,7 @@ body {
 }
 
 .largura {
-width: 760px;
+width: 800px;
 margin: auto;
 }
 
@@ -15,9 +15,8 @@ margin: auto;
 }
 
 .links-1 {
-  text-decoration: none;
   color: black;
-  margin-right: 20px;
+  margin-right: 5px;
   font-family: 'Black Ops One', cursive;
 }
 
