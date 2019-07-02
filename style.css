@@ -95,27 +95,33 @@ h1 {
 }
 
 .paragrafo1 {
+  font-family: 'VT323', monospace;
   text-align: left;
   margin-bottom: 85px;
 }
 .paragrafo2 {
+  font-family: 'VT323', monospace;
   text-align: left;
   margin-bottom: 100px;
  }
 .paragrafo3 {
+  font-family: 'VT323', monospace;
   text-align: left;
   margin-bottom: 100px;
 }
 
 .paragrafo4 {
+  font-family: 'VT323', monospace;
   text-align: left;
   margin-bottom: 90px;
 }
 .paragrafo5 {
+  font-family: 'VT323', monospace;
   text-align: left;
   margin-bottom: 20px;
 }
 
 .paragrafoI {
+  font-family: 'VT323', monospace;
   margin-bottom: 10px;
 }
