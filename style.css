@@ -23,8 +23,6 @@ a {
   text-decoration: none;
 }
  
-links-1:visited {
-  border-bottom: 1px dotted black;
 }
 
 a:hover {
@@ -39,22 +37,27 @@ h1 {
 
 .selecionado1:visited {
   color: blue;
+  border-bottom: 1px dotted black;
 }
 
 .selecionado2:visited {
   color: blue;
+  border-bottom: 1px dotted black;
 }
 
 .selecionado3:visited {
   color: blue;
+  border-bottom: 1px dotted black;
 }
 
 .selecionado4:visited {
   color: blue;
+  border-bottom: 1px dotted black;
 }
 
 .selecionado5:visited {
   color: blue;
+  border-bottom: 1px dotted black;
 }
 
 .img-1 {
