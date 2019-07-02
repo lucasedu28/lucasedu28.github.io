@@ -69,7 +69,7 @@ h1 {
   width: 50%;
   height: "";
   float: left;
-  margin-right: 20px;
+  margin-right: 10px;
   margin-bottom: 20px;
 }
 
@@ -83,13 +83,15 @@ h1 {
 
 .paragrafo1 {
   font-family: 'VT323', monospace;
+  text-align: left;
 }
 
 .tituloAJ {
   font-family: 'Black Ops One', cursive;
   margin-bottom: 2px;
+  text-align: left;
 }
 
 .p-t {
-  font-size: 25px;
+  font-size: 10px;
 }
