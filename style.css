@@ -81,12 +81,10 @@ h1 {
   font-family: 'Press Start 2P', cursive;
 }
 
-}
-
 .tituloAJ {
   font-family: 'Black Ops One', cursive;
-  margin-bottom: none;
-  text-align: none;
+  margin-bottom: 2px;
+  text-align: left;
 }
 
 .p-t {
@@ -95,27 +93,27 @@ h1 {
 
 .paragrafo1 {
   font-family: 'VT323', monospace;
-  text-align: none;
+  text-align: left;
   margin-bottom: 50px;
 }
 .paragrafo2 {
   font-family: 'VT323', monospace;
-  text-align: none;
+  text-align: left;
   margin-bottom: 80px;
  }
 .paragrafo3 {
   font-family: 'VT323', monospace;
-  text-align: none;
+  text-align: left;
   margin-bottom: 105px;
 }
 
 .paragrafo4 {
   font-family: 'VT323', monospace;
-  text-align: none;
+  text-align: left;
   margin-bottom: 100px;
 }
 .paragrafo5 {
   font-family: 'VT323', monospace;
-  text-align: none;
+  text-align: left;
   margin-bottom: 20px;
 }
