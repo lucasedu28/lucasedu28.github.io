@@ -84,11 +84,12 @@ h1 {
 .paragrafo1 {
   font-family: 'VT323', monospace;
   text-align: none;
+  margin-bottom: 50px;
 }
 
 .tituloAJ {
   font-family: 'Black Ops One', cursive;
-  margin-bottom: 2px;
+  margin-bottom: none;
   text-align: none;
 }
 
