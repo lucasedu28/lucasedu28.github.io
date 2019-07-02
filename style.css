@@ -81,10 +81,6 @@ h1 {
   font-family: 'Press Start 2P', cursive;
 }
 
-.paragrafo1 {
-  font-family: 'VT323', monospace;
-  text-align: none;
-  margin-bottom: 50px;
 }
 
 .tituloAJ {
@@ -95,4 +91,31 @@ h1 {
 
 .p-t {
   font-size: 10px;
+}
+
+.paragrafo1 {
+  font-family: 'VT323', monospace;
+  text-align: none;
+  margin-bottom: 50px;
+}
+.paragrafo2 {
+  font-family: 'VT323', monospace;
+  text-align: none;
+  margin-bottom: 80px;
+ }
+.paragrafo3 {
+  font-family: 'VT323', monospace;
+  text-align: none;
+  margin-bottom: 105px;
+}
+
+.paragrafo4 {
+  font-family: 'VT323', monospace;
+  text-align: none;
+  margin-bottom: 100px;
+}
+.paragrafo5 {
+  font-family: 'VT323', monospace;
+  text-align: none;
+  margin-bottom: 20px;
 }
