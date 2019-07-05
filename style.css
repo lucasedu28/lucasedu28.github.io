@@ -130,13 +130,13 @@ h1 {
 
 .tamanhoT {
   font-size: 10px;
-  text-align: center;
-  margin-bottom: none;
+  text-align: left;
+  margin-bottom: 0;
 }
 
 button {
   background-color: #D8D8D8;
-  margin-bottom: 180px;
+  margin-bottom: 190px;
   border-radius: 5px;
   
 }
