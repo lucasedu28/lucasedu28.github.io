@@ -129,13 +129,13 @@ h1 {
 }
 
 .tamanhoT {
-  font-size: 20px;
+  font-size: 10px;
   text-align: left;
+  margin-bottom: 170px
 }
 
 button {
   background-color: #0796DE;
-  margin-bottom: 80px;
 }
 
 button:hover {
