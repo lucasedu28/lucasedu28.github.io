@@ -17,12 +17,21 @@ margin: auto;
   font-family: 'Black Ops One', cursive;
 }
 
-a,link {
+a {
   color: black;
   text-decoration: none;
 }
 
-a,link:hover {
+a:hover {
+  color: red;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.link:hover {
   color: red;
 }
 
