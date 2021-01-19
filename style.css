@@ -67,11 +67,10 @@ h1 {
 
 .img-1 {
   float: left;
-  width: 60%;
+  width: 50%;
   height: "";
   margin-right: 20px;
   margin-bottom: 20px;
-  display: inline;
 }
 
 .img-2 {
